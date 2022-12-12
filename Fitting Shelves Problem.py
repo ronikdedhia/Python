@@ -27,6 +27,7 @@ def minSpacePreferLarge(w, m, n):
 		w -= n
 	print( str(int(num_m)) + " " + str(num_n) + " " + str(rem))
 
+# Driver code
 w = 24
 m = 3
 n = 5
