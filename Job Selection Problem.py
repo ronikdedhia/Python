@@ -1,6 +1,4 @@
 from heapq import heappop, heappush, heapify
-
-# Function to find the optimum sequence
 def optimum_sequence_jobs(V: list, P: float):
 	N = len(V) - 1
 	j = 1
