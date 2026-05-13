@@ -89,14 +89,6 @@ Python/
 └── resources.txt          # External resource links
 ```
 
-## Screenshots
-
-| Screenshot | Description |
-|------------|-------------|
-| _(screenshot placeholder)_ | Tkinter GUI apps (calculator, music player) |
-| _(screenshot placeholder)_ | Pygame games (Snake, Sudoku) |
-| _(screenshot placeholder)_ | Jupyter notebook — competitive programming |
-
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
